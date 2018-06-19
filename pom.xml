@@ -21,6 +21,13 @@
             <artifactId>netty-all</artifactId>
             <version>4.0.56.Final</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.alibaba.hsf/LightApi -->
+        <dependency>
+            <groupId>com.alibaba.hsf</groupId>
+            <artifactId>LightApi</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+
     </dependencies>
 
     <build>
